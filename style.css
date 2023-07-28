@@ -1,0 +1,36 @@
+header{
+	width: 1340px;
+	height: 95px;
+	background-color: blue;
+}
+
+.private{
+	margin-left: 160px;
+}
+
+.home{
+	background-color: red;
+	height: 72px;
+	width: 111px;
+	border-radius: 13px;
+	color: white;
+	margin-top: 15px;
+}
+
+.home1{
+margin-left: 78px;
+	background-color: red;
+	height: 72px;
+	width: 111px;
+	border-radius: 13px;
+	color: white;	
+}
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-size: 60px;
+	color: blue
+}
